@@ -1,7 +1,8 @@
 ![made-with-VisualStudio](https://img.shields.io/badge/Made%20With-Visual%20Studio-ba88f3)  ![Using-CPlusPlus](https://img.shields.io/badge/Using-C%2B%2B-ff69b4)
 
-# TITLE
-...
+# File Reading Exercise
+A simple exercise creating a file-reading app. The CLI app reads a .txt file and then prints out the student's names and test scores 
+as well as the total average of the scores.
 
 <img src="./assets/screenshot.png"
      alt="Img"
