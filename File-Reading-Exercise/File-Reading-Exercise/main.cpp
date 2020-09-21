@@ -53,7 +53,7 @@ int main() {
     int total_students{ 0 };
     double average_score{ 0.0 };
 
-    in_file.open("../response.txt");
+    in_file.open("./responses.txt");
 
     if (!in_file) {
         std::cerr << "There was an error opening a file" << std::endl;
